@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, I'm Bartosz 👋
+
+### My stats
+| <a><img alt="Github Stats Card" align="center" src="https://github-readme-stats.vercel.app/api?username=bmazurkiewicz01&hide=contribs&theme=dracula&show_icons=true"/></a> | <a><img alt="Top languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmazurkiewicz01&layout=compact&theme=dracula&langs_count=6"/></a> |
+| ------------- | ------------- |
 
 <!--
 **bmazurkiewicz01/bmazurkiewicz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
